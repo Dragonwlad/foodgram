@@ -13,7 +13,7 @@ Cайт для размещения и просмотра рецептов.
 
 ## Технологии
 * Frontend: React
-* Backand: Django REST API, PostgreSQL
+* Backand: Django REST API, PostgreSQL, Docker, NGINX, Gunicorn
 
 Как запустить проект:
 
