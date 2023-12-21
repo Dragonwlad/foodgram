@@ -15,6 +15,14 @@ Cайт для размещения и просмотра рецептов.
 * Frontend: React
 * Backand: Django REST API, PostgreSQL, Docker, NGINX, Gunicorn
 
+## Скриншоты:
+
+<img src="preview/1.PNG" width="300"/>&nbsp;
+
+<img src="preview/2.PNG" width="300"/>&nbsp;
+
+<img src="preview/3.PNG" width="300"/>&nbsp;
+
 Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
